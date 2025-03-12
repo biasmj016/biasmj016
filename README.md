@@ -7,4 +7,4 @@
 
 ### 🛠️ Tech Stack
 - Languages: Java, Kotlin, Python
-- Frameworks: Spring Boot, React
+- Frameworks: Spring Boot
